@@ -1,0 +1,7 @@
+PyQt6
+Pillow
+keyboard
+pywin32
+pytesseract
+numpy
+opencv-python 
